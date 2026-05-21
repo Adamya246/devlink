@@ -60,6 +60,21 @@ The system generates a high compatibility score automatically.
 
 ---
 
+# 🌐 Live Demo
+
+🚀 Live Application:  
+https://devlink-taupe-five.vercel.app/login
+
+Test Accounts:
+
+Developer:
+- Email: demo@developer.com
+- Password: demo123
+
+Company:
+- Email: demo@company.com
+- Password: demo123
+
 # 🛠 Tech Stack
 
 ## Frontend
